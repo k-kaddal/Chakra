@@ -36,7 +36,7 @@ To do:
 -   [x] Conf igure the project (ESLint, Prettier, etc)
 -   [x] Create index Page
 -   [x] Integrate with Chakra UI
--   Add Navigation Bar
+-   [x] Add Navigation Bar
 -   Support dark theme
 -   Change font
 -   Add About page
