@@ -1,18 +1,28 @@
 # K-KAD
 
+> Portfolio website.
+
+## Table of Contents
+
+-   [Technologies Used](#technologies-used)
+-   [Usage](#usage)
+-   [Project Status](#project-status)
+-   [Room for Improvement](#room-for-improvement)
+-   [Contact](#contact)
+
 ## Technologies Used
 
 -   Next.js
 -   Chakra-UI
 -   Eslint and Prettier
 
-## Setup
-
-`npm install`
-
 ## Usage
 
-`npm run dev` - for development
+-   `npm install` - to install
+-   `npm run dev` - for development
+-   `npm run build` - to build project
+-   `npm run prettier` - to run Prettier
+-   `npm run lint` - to run Eslint
 
 ## Project Status
 
@@ -37,3 +47,7 @@ To do:
 -   Add project details page
 -   Add social media links
 -   Deploy
+
+## Contact
+
+Created by [@k-kaddal](khaledkaddal@gmail.com) - feel free to contact me!
